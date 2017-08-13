@@ -58,6 +58,6 @@
   },
   "description": "A Meteor-Ionic3 bootstrap project",
   "config": {
-    "ionic_webpack": "./config/webpack.config.js"
+    "ionic_webpack": "./webpack.config.js"
   }
 }
